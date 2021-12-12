@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Amin</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/media/Dq6yj5QXQAAmLOQ.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/m-amin/m-amin/blob/master/undraw_Developer_activity_re_39tg.png?raw=true">
 
 - 🔭 I’m currently working on [eatvo](https://www.eatvo.com/)
 
